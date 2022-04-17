@@ -1,0 +1,6 @@
+export const environment = {
+   production: true,
+   clientID: "Client_ID",
+   clientSecret: "CLIENT_SECRET",
+   userAPIBase: "API_BASE_URL",
+};
