@@ -1,4 +1,4 @@
-# Spotify angular app
+# Angular music app
 
 [Working demo](https://6250472f431f25182143dd30--roaring-cuchufli-3b0de0.netlify.app/)
 
